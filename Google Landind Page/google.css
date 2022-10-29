@@ -15,6 +15,7 @@
 .header{
     display: flex;
     flex-direction: row;
+    dislay: none;
     list-style: none;
     align-items:center;
   
@@ -62,7 +63,7 @@ li{
   border:1px solid #dcdcdc;
 }
 .search:hover{
-    box-shadow: 1px 1px 8px 1px #dcdcdc;
+    box-shadow: 1px 1px 8px 4px #dcdcdc;
 }
 .buttons{
     padding-top: 20px;
